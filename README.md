@@ -1,4 +1,5 @@
 # Spiget
+[![Gitter](https://badges.gitter.im/SpiGetOrg/Spiget.svg)](https://gitter.im/SpiGetOrg/Spiget?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 Spiget Source & Issue tracker
 
 ## Repositories
